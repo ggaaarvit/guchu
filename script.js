@@ -34,7 +34,7 @@ noBtn.addEventListener('mouseover', () => {
 });
 
 noBtn.addEventListener('click', () => {
-    responseText.textContent = 'Нет? Ну ладно, но ты всё равно моя валентинка! 🤭';
+    responseText.textContent = 'go back and say yes or 100years of relaxation 🤭';
     gif.src = 'https://i.pinimg.com/originals/3e/47/7e/3e477e83c35e2a7a38f19ccdad163faa.gif';
     yesBtn.style.display = 'none';
     noBtn.style.display = 'none';
